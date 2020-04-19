@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30019.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppMvc_Anc31_core_NoAuth_1", "WebAppMvc_Anc31_core_NoAuth_1\WebAppMvc_Anc31_core_NoAuth_1.csproj", "{F9829ACA-C2F8-4C46-B251-70B80F39445F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9829ACA-C2F8-4C46-B251-70B80F39445F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9829ACA-C2F8-4C46-B251-70B80F39445F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9829ACA-C2F8-4C46-B251-70B80F39445F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9829ACA-C2F8-4C46-B251-70B80F39445F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3DC57E-F4ED-4034-A2F6-F22C6CF5D51E}
+	EndGlobalSection
+EndGlobal
